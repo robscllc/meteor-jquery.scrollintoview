@@ -3,6 +3,6 @@
   "description": "jquery.scrollintoview as a meteor smart package",
   "homepage": "https://github.com/WeekdayFiller/meteor-jquery.scrollintoview",
   "author": "Fred Boutros",
-  "version": "1.8",
+  "version": "1.8.0",
   "git": "https://github.com/WeekdayFiller/meteor-jquery.scrollintoview"
 }
